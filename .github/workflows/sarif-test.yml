@@ -27,3 +27,8 @@ jobs:
         uses: github/codeql-action/upload-sarif@v3
         with:
           sarif_file: ./ssc.sarif
+     
+      # Output sample summary
+      - name: Generate summary
+        run: |
+          cat summary.md >> $GITHUB_STEP_SUMMARY
