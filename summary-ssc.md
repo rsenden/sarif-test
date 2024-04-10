@@ -2,7 +2,7 @@
 
 ## [IWAPharmacy - test](http://localhost:2320/ssc/html/ssc/index.jsp#!/version/68/fix)
 
-Summary generated on: 2024-04-10 16:32
+Summary generated on: 2024-04-10 17:55
 
 ### Issue Counts
 
@@ -10,18 +10,18 @@ Summary generated on: 2024-04-10 16:32
 | Analysis Type          | Last Scan Date   |   Critical |       High |     Medium |        Low | 
 | ---------------------- | ---------------- | ---------- | ---------- | ---------- | ---------- |
 | **SCA**                | 2023-05-17 22:20 |        100 |       1391 |          9 |       9387 |
-
+| **Total**              |                  |        100 |       1391 |          9 |       9387 |
 
 #### Quick View 
 | Analysis Type          | Last Scan Date   |   Critical |       High |     Medium |        Low | 
 | ---------------------- | ---------------- | ---------- | ---------- | ---------- | ---------- |
 | **SCA**                | 2023-05-17 22:20 |        100 |        306 |          0 |          0 |
-
+| **Total**              |                  |        100 |        306 |          0 |          0 |
 
 #### Security Gate 
 | Analysis Type          | Last Scan Date   | Issues failing Security Gate | 
 | ---------------------- | ---------------- | ---------- |
 | **SCA**                | 2023-05-17 22:20 |        762 |
-
+| **Total**              |                  |        762 |
 
 
