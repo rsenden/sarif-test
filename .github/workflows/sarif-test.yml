@@ -31,4 +31,5 @@ jobs:
       # Output sample summary
       - name: Generate summary
         run: |
-          cat summary.md >> $GITHUB_STEP_SUMMARY
+          cat summary-fod.md >> $GITHUB_STEP_SUMMARY
+          cat summary-ssc.md >> $GITHUB_STEP_SUMMARY
