@@ -2,7 +2,7 @@
 
 ## [IWAPharmacy - test](http://localhost:2320/ssc/html/ssc/index.jsp#!/version/68/fix)
 
-Summary generated on: 2024-04-10 15:44
+Summary generated on: 2024-04-10 15:59
 
 ### Issue Counts
 
@@ -16,6 +16,12 @@ Summary generated on: 2024-04-10 15:44
 | Analysis Type      |   Critical |       High |     Medium |        Low | 
 | ------------------ | ---------- | ---------- | ---------- | ---------- |
 | SCA                |        100 |        306 |          0 |          0 |
+
+
+#### Security Gate 
+| Analysis Type      | Issues failing Security Gate | 
+| ------------------ | ---------- |
+| SCA                |        762 |
 
 
 
