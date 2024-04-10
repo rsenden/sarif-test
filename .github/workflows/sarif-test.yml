@@ -33,3 +33,4 @@ jobs:
         run: |
           cat summary-fod.md >> $GITHUB_STEP_SUMMARY
           cat summary-ssc.md >> $GITHUB_STEP_SUMMARY
+          cat summary-ssc2.md >> $GITHUB_STEP_SUMMARY
