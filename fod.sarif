@@ -56,8 +56,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "High" ],
-        "precision" : "low",
         "security-severity" : "8.9"
       },
       "partialFingerprints" : {
@@ -102,8 +100,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -316,8 +312,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -502,8 +496,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -716,8 +708,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -958,8 +948,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -1144,8 +1132,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -1386,8 +1372,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -1600,8 +1584,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -1814,8 +1796,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -2056,8 +2036,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -2270,8 +2248,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
@@ -3668,8 +3644,6 @@
       },
       "level" : "warning",
       "properties" : {
-        "tags" : [ "Critical" ],
-        "precision" : "high",
         "security-severity" : "10.0"
       },
       "partialFingerprints" : {
